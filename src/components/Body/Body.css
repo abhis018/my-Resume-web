@@ -1,0 +1,56 @@
+img {
+    flex: 20%;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    margin-right: 180px;
+    margin-top: 10px;
+}
+
+.about {
+    flex: 70%;
+}
+
+.body {
+ display: flex;
+ margin-top: 30px;
+}
+
+.text1 {
+    font-size: 85px;
+    padding-right: 100px;
+}
+.text2 {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+span {
+    font-size: 55px;
+}
+
+.circle1 {
+    border: 1px solid none;
+    border-radius: 50%;
+    background-color: red;
+    margin-right: 20px;
+}
+
+.circle2 {
+    border: 1px solid none;
+    border-radius: 50%;
+    background-color: rgb(119, 148, 243);
+    margin-right: 20px;
+}
+.circle3 {
+    border: 1px solid none;
+    border-radius: 50%;
+    background-color: rgb(165, 241, 197);
+}
+
+.personal {
+    padding-right: 150px;
+    padding-top: 50px;
+    cursor: pointer;
+}
