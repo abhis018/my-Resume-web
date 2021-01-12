@@ -54,3 +54,11 @@ span {
     padding-top: 50px;
     cursor: pointer;
 }
+
+.circle1:hover {
+    background-color: #4CAF50;
+}
+
+.circle2:hover {
+    background-color: #0e1688;
+}

@@ -38,7 +38,6 @@
 }
 
 body {
-  background-color: rgba(166, 149, 167, 0.979);
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Jry-gAoOxVAqAPhK-7CoSfs3yTG_U-ZVww&usqp=CAU);
+  background-image:linear-gradient(to right, rgb(24, 23, 23), rgb(94, 90, 90));
   color: white;
 }
